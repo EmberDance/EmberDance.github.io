@@ -29,17 +29,16 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Ember Blues and Fusion Columbus
+email: example@example.com
+description: >-
+  We are Ember Blues and Fusion Columbus, a vibrant community for dancers and
+  musicians dedicated to exploring and celebrating the art of Blues and Fusion
+  Dance. Whether you're a beginner or an experienced dancer, we offer a
+  welcoming and inclusive space for everyone to learn, connect, and grow.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: ember.dance
 url: https://ember.dance
-twitter_username: jekyllrb
-github_username: jekyll
 
 # Build settings
 theme: minima
