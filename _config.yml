@@ -20,8 +20,8 @@
 
 lsi: false
 safe: true
-source: .
-incremental: false
+source: src
+incremental: true
 highlighter: rouge
 gist:
   noscript: false
