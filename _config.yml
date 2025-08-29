@@ -21,13 +21,16 @@
 lsi: false
 safe: true
 source: src
-incremental: true
+incremental: false
 highlighter: rouge
 gist:
   noscript: false
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+include:
+  - src
 
 title: Ember Blues and Fusion Columbus
 email: example@example.com
