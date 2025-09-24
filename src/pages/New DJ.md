@@ -38,9 +38,8 @@ Be aware of and use best judgment regarding lyrical subject matter of songs. Muc
   
   
 
-|   |   |   |   |   |
+|Totally Blues   | Blues-Adjacent or Modern Blues appropriate for a Blues Format  |Overlapping Broad appeal, but not neatly categorized   |“Fusion” Format music with greater appeal to Blues Purists   |Totally “Fusion”   |
 |---|---|---|---|---|
-|Totally Blues|Blues-Adjacent or Modern Blues appropriate for a Blues Format|Overlapping Broad appeal, but not neatly categorized|“Fusion” Format music with greater appeal to Blues Purists|Totally “Fusion”|
 |BB King  <br>Howlin Wolf<br><br>Keb Mo<br><br>Big Mama Thornton|Nina Simone<br><br>Billie Holiday<br><br>Etta James<br><br>Dr. John<br><br>Crooked Still<br><br>Ray Charles<br><br>Fantastic Negrito|Booker T & MGs<br><br>Bill Withers<br><br>Johnny Cash<br><br>Ann Peebles<br><br>Marlena Shaw<br><br>Dusty Springfield|Prince<br><br>D’Angelo<br><br>Erykah Badu<br><br>Jeff Buckley<br><br>Nick Cave<br><br>Stevie Wonder|Massive Attack<br><br>Glass Animals<br><br>Beats Antique<br><br>Bitter:Sweet|
 
   
