@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-bundle exec jekyll serve --livereload --force_polling
+set -e
+
+pnpm run dev

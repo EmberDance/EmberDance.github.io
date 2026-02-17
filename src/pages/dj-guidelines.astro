@@ -1,0 +1,107 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+import SpotifyEmbeds from "../components/SpotifyEmbeds.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <h1>DJ Guidelines</h1>
+      <p>
+        Ember Blues and Fusion is a social dance. We value diversity in the
+        music presented.
+      </p>
+      <h2>Be Prepared</h2>
+      <p>
+        DJ's must have music downloaded to their devices and be able to work
+        offline. (Spotify allows you to download playlists.) You must arrive at
+        least 15 minutes before first set, or 30 minutes before second set.
+      </p>
+      <h2>Be Active</h2>
+      <p>
+        You must be an active DJ. Read the crowd and energy level. Adjust and
+        reorder your playlist as necessary to adapt to the floor and the crowd.
+        That does not mean you necessarily have to reorder a playlist, but you
+        must be prepared to. You do not have to take requests if you do not want
+        to.
+      </p>
+      <h2>Broad Musical Formatting</h2>
+      <p>
+        DJ's should play a wide variety of music that covers the spectrum from
+        "Totally Blues" (E.g. Howlin' Wolf) to "Totally Fusion" (E.g. Massive
+        Attack). You should aim to format your sets as roughly half "Blues
+        Event" format and roughly half "Fusion Event" format.
+      </p>
+      <p>
+        Many guests will prefer a more “Blues” format and many will prefer a
+        more “Fusion” format. Aim to play a selection that everyone is happy
+        with about 2/3 of your playlist. Allowing outliers that the people who
+        enjoy the more polarizing ends of the spectrum have opportunities for
+        that.
+      </p>
+      <p>
+        The majority of music played should be danceable with a 2-step basic
+        blues dance like what beginners will be taught in their intro lesson.
+        You are strongly encouraged to be aware of the intermediate progressive
+        lesson subject, and incorporate songs that complement that. You may
+        include a couple of “challenge” songs that are based in other rhythms
+        like merengue, polka, or salsa.
+      </p>
+      <h2>Language and Content</h2>
+      <p>
+        Curse words are generally fine. Racial slurs are not generally
+        appropriate.
+      </p>
+      <p>
+        Be aware of and use best judgment regarding lyrical subject matter of
+        songs. Much of the music being played deals with topics of violence,
+        racism, and other potentially sensitive subjects. Be respectful and
+        considerate of the art and the audience. If you are unsure of a song,
+        check with an organizer or an experienced DJ. If you're not sure if a
+        song is appropriate, it probably isn't.
+      </p>
+
+      <table>
+        <tr>
+          <th>Blues Staples</th>
+          <th>Modern Blues</th>
+          <th>Overlapping Broad appeal</th>
+          <th>Blues-Fusion</th>
+          <th>Totally Fusion</th>
+        </tr>
+        <tr>
+          <td>BB King</td>
+          <td>Nina Simone</td>
+          <td>Booker T & MGs</td>
+          <td>Prince</td>
+          <td>Massive Attack</td>
+        </tr>
+        <tr>
+          <td>Howlin Wolf</td>
+          <td>Billie Holiday</td>
+          <td>Bill Withers</td>
+          <td>D'Angelo</td>
+          <td>Glass Animals</td>
+        </tr>
+        <tr>
+          <td>Keb Mo</td>
+          <td>Etta James</td>
+          <td>Johnny Cash</td>
+          <td>Erykah Badu</td>
+          <td>Beats Antique</td>
+        </tr>
+      </table>
+
+      <SpotifyEmbeds />
+    </main>
+    <Footer />
+  </body>
+</html>
